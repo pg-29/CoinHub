@@ -4,7 +4,7 @@ CoinHub is a versatile cryptocurrency wallet website designed to adapt seamlessl
 Crafted with HTML, CSS, and JavaScript, it offers a responsive interface for easy access and management of your digital assets.
 
 ## Explore 👇
-<a href="https://coinhub-1.netlify.app"><strong>➥ Live Demo</strong></a>
+<a href="https://coinhub-crypto.netlify.app"><strong>➥ Live Demo</strong></a>
 
 ## Demo Screeshots
 <img width="1385" alt="Screenshot 2024-05-03 at 7 10 22 PM" src="https://github.com/pg-29/CoinHub/assets/122177879/b7d5a341-c2fc-41ad-99bd-642cfe046b1c">
